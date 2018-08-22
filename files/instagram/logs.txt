@@ -1,20 +1,0 @@
-username = sachin   
-password = sachin   
-   
-   
-username = sachin   
-password = khig   
-   
-   
-username = sachin   
-password = khig   
-   
-   
-username =    
-password =    
-   
-   
-username = dss   
-password = ffff   
-   
-   
