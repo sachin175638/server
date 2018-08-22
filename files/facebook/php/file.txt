@@ -1,4 +1,0 @@
-Username = sas
-password = 
-Username = Hacking.
-password = shshs
